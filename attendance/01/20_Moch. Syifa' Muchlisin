@@ -1,0 +1,24 @@
+Rangkuman Pertemuan 1
+
+Quality Assurance Engineer (QA Enginer)
+Quality Assurance Engineer merupakan pihak yang melakukan pengujian pada software dan mencari bug pada suatu project aplikasi. QA Engineer bertanggung jawab untuk 
+membuat perencanaan pengujian, mengeksekusi pengujian dengan open source tools, mengidentifikasi, merekam, mendokumentasikan bug serta mampu untuk membuat dokumentasi 
+user manual. QA enginer . Software Tester bekerja dan bertanggung jawab kepada project manager dan progarammer (Back End maupun Front End). Pekerjaan software tester
+rata rata bergaji anatara 4-7 juta tergantung dari UMR kota dan kebijakan perusahaan dan lowongan Software tester bisa ditemukan di glints
+syarat untuk bekerja di quality asurance yaitu:
+1. memahami tentang alur dari produk aplikasi yang akan diuji 
+2. memahami tentang dasar front end dan back end project aplikasi untuk mengetahui secara detail bug dari suatu project
+3. memahami analis system (Flowcchart, Activity, ERD, UML Class)
+4. memahami tentang dasar database 
+5. memahami bahasa inggris dasar karena dokumentasi dan error rata rata menggunakan bahasa inggris
+
+pengujian perangkat lunak
+pengujian suatu aplikasi sangat penting sebelum di launching ke pasar teknologi karena jika bug di temui oleh user maka produk aplikasi kita bisa buruk di pasar teknologi
+untuk itu dilakukan pengujian aplikasi oleh software tester untuk mencari bug error dalam suatu aplikasi. software tester dalam melakukan pengetesan mulai dari menguji fungsi awal
+samapi akhir aplikasi misalkan melakukan pengujian aplikasi chat software tester melakukan pengujian aplikasi dari fitur login, list chating, fitur chating hingga pengiriman
+dan dipastikan aplikasi sampai layak untuk di gunakan oleh user. software tester bertanggung jawab kepada project manager dan membuat dokumentasi laporan kelayakan pengujian 
+aplikasi, software tester juga bertanggung jawab kepada programmer baik front end dalam mencari bug dari tampilan suatu project aplikasi ataupun backend dalam bug suatu 
+fungsi dari aplikasi dan database administrator jika bug berhubungan dengan database. pengujian biasanya dilakukan tidak hanya sekali tapi beberapa kali sebelum suatu 
+aplikasi di launcing ke pasar teknologi untuk memastikan apakah aplikasi layak untuk di gunakan.
+
+inti dari software tester adalah melakukan pengujian aplikasi dan mencari bug error dari aplikasi dan membuat dokumentasi kepada project manager dan programmer
