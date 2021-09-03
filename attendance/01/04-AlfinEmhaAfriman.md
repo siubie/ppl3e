@@ -1,4 +1,4 @@
-# Pertemuan 01 Buatlah Rangkuman Pertemuan Pertama
+# Pertemuan 01 
 
 Scrum lebih memanusiakan software developer agar software developer tidak akan 
 selalu tertekan. Karena Scrum tersadar bahwa software terbaik dihasilkan 
