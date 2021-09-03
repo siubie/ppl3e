@@ -1,0 +1,24 @@
+# Rangkuman Materi Pertemuan 1 : 
+Pengujian perangkat lunak adalah salah satu bagian dalam proses pengembangan perangkat lunak. Menurut standar IEEE 1059, pengujian perangkat lunak adalah proses 
+menganalisa perangkat lunak untuk mendeteksi perbedaan antara hasil implementasi dan kebutuhan perangkat lunak serta mengevaluasi fitur fitur dari perangkat lunak yang dibuat. 
+Ada pola pikir utama dalam konsep “good testing” - yaitu asumsi bahwa perangkat lunak yang dihasilkan sudah pasti memiliki bug atau error, tugas seorang tester adalah 
+menemukan bug dan error tersebut. Para desainer dan pengembang perangkat lunak selalu membuat perangkat lunak dengan asumsi yang optimis bahwa kode program atau perubahan 
+yang mereka tulis adalah solusi yang tepat.
+
+# Latihan :
+Scrum merupakan sebuah kerangka kerja dimana pihak-pihak dapat mencari jalan keluar dari permasalahan yang
+kompleks dan pada saat yang bersamaan membuat produk yang memiliki nilai setinggi mungkin secara produktif
+dan kreatif. Scrum dirancang untuk meningkatkan kecepatan waktu pengembangan, menyatukan tujuan individu dan organisasi, menciptakan budaya yang diarahkan oleh performa, 
+mendukung nilai kreasi dari shareholder, mencapai komunikasi yang stabil dan konsisten untuk setiap level performa, dan meningkatkan pengembangan dan kualitas hidup individu. 
+Menurut Sutherland, et al (2007), faktor utama yang mempengaruhi diperkenalkannya Scrum pada Easel Corporation berhubungan dengan permasalahan yang sering dijumpai 
+pada pengembangan software berikut ini :
+1. Ketidak-pastian yang tidak dapat dihindari dari proses pengembangan software
+2. Untuk sebuah sistem software yang baru analisa kebutuhan tidak akan secara lengkap diketahui hingga user
+telah menggunakannya langsung
+3. Sangat tidak mungkin untuk menspesifikasikan secara lengkap system yang interaktif 
+4. Kebutuhan yang selalu ambigu dan berubah, dikombinasikan dengan teknologi dan tools yang terus
+berkembang membuat implementasi tidak dapat diprediksi.
+Sehingga diperlukan sebuah proses pembuatan software yang bekerja secara terus-menerus dalam analisa kebutuhan, design, coding, testing, dan juga mengantarkan sistem 
+secara keseluruhan.
+
+
