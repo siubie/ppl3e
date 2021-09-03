@@ -11,3 +11,5 @@ Karena Scrum menyediakan kerangka kerja untuk umpan balik dan eksposur berkelanj
 3. Peningkatan hasil tim scrum (produk atau layanan) secara teratur dan berkelanjutan melalui tinjauan sprint dengan pemangku kepentingan.
 4. Melakukan sprint retrospective, memungkinkan tim scrum untuk terus meningkatkan faktor-faktor khusus tim seperti proses, alat, hubungan, dan lingkungan kerja.
 5. Menyelesaikan pekerjaan menggunakan definisi selesai yang membahas pengembangan, pengujian, integrasi, dan dokumentasi.
+
+Metode Scrum dapat digunakan sebagai kerangka kerja untuk mengembangkan interoperabilitas sistem dengan waktu yang efisien. Pada contoh beberapa studi kasus pengembangan dengan menggunakan metode Scrum dapat menghemat waktu hingga 30 sampai 60% dibandingkan dengan menggunakan metode Waterfall.
