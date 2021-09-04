@@ -1,0 +1,9 @@
+# RANGKUMAN BAB 1
+
+## Pengenalan Pengujian Perangakt Lunak
+Pengujian perangkat lunak adalah salah satu bagian dalam proses pengembangan perangkat lunak. Proses pengujian merupakan proses yang sangat penting, jika perangkat lunak tidak melalui proses testing maka developer tidak dapat mengetahui bagian yang error/bug. Apabila error ditemukan pada tahap testing bisa langsung diatasi, jika error ini ditemukan pada tahap deployment maka kerugian akan semkain besar.
+Pola pikir utama dalam konsep "good testing" yaitu asumsi bahwa perangkat lunak yang dihasilkan sudah pasti memiliki bug atau error. Para desainer dan pengembang perangkat lunak selalu membuat perangkat lunak dengan asumsi yang optimis bahwa kode program atau perubahan yang mereka tulis adalah solusi yang tepat. 
+
+## Latihan 1
+Scrum merupakan sebuah kerangka kerja dimana pihak-pihak dapat mencari jalan keluar dari permasalahan yang kompleks dan pada saat yang bersamaan membuat produk yang memiliki nilai setinggi mungkin secara produktif dan kreatif. Scrum dirancang untuk meningkatkan kecepatan waktu pengembangan, menyatukan tujuan individu dan organisasi, menciptakan budaya yang diarahkan oleh performa, mendukung nilai kreasi dari shareholder, mencapai komunikasi yang stabil dan konsisten untuk setiap level performa, dan meningkatkan pengembangan dan kualitas hidup individu.
+Metode scrum pada dasarnya mengutamakan kecepatan dan fleksibilitas dalam proyek pengembangan perangkat lunak, selain itu metode scrum juga mengutamakan fungsionalitas yang didalamnya sudah terdapat hasil dari pengujian fungsionalitas yang mengakibatkan kualitas perangkat lunak dari segi fungsionalitas sudah terjamin. Anggota dalam tim pun tidak terlalu banyak, akan tetapi tetap mengikuti role yang sudah ada pada metode scrum dan client menjadi lebih bisa aktif memberikan feedback atau umpan balik mengenai fungsionalitas dari perangkat lunak yang akan dikembangkan.
