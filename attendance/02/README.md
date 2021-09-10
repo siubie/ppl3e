@@ -1,3 +1,3 @@
-# Pertemuan 01
+# Pertemuan 02
 
-Buatlah Rangkuman Pertemuan Pertama
+Buatlah Rangkuman Pertemuan Kedua
