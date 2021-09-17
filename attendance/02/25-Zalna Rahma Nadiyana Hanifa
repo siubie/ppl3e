@@ -1,0 +1,58 @@
+# RANGKUMAN PERTEMUAN 2 #
+  KELOMPOK BAB 9 (Ardila, Akabar, Fransiska)
+ Test Plan adalah dokumen yang mendefinisikan scope dan aktivitas yang dilakukan saat pengujian software atau sistem. 
+ Sedangkan menurut  standar IEEE 829 ada 19 dokumen test splan yaitu ada beberapa yaitu :
+ - Test Plan Identifier
+ - Software Risk Issues
+ - Item pass/Fail Criteria
+ - References
+ - Features to be tested
+ - Suspension criteria and resumption requirements
+ - Introduction
+ - Features not to be tested
+ - Test Deliverables
+ - Test Items
+ - Approach
+ - Remaining Test tasks
+ - Environmental Needs
+ - Schedule
+ - Approvals
+ - Staffing and training needs
+ - Planning Risks and contingencies
+ 
+ *PERTANYAAN*
+ -> a. Thalia Amira : 
+Jelaskan secara singkat manfaat dan tujuan dari test plan?
+*Jawaban* : test plan dibuat dengan tujuan agar testing dilakukan secara terarah,
+baik dari segi bagian yang diujikan, rentang waktu maupun penanggung jawab dari testing. dokumen
+ini juga merupakan bentuk kesepakatan antara developer dengan pihak penguji
+
+-> b. M. Yudha Erian:
+contoh dari glossary
+*Jawaban* : dokumen test plan merupakan dokumen umum yang dapat dibaca oleh orang TI maupun non-TI,
+sehingga terdapat kemungkinan orang yang non-TI tidak memahami beberapa kalimat yang ada didalam dokumen. contoh:
+requirement, software, hardware.
+
+  KELOMPOK BAB 2 (Tyoone dan Thalia)
+Ada 2 pendekatan tipe pengujian yaitu Pengujian Fungsional dan Pengujian Non-Fungsional. Pengujian Fungsional adalah menguji sistem masing-masing fitur pada perangkat seperti
+(database, algoritma diskon pada sistem kasir). Sedangkan Pengujian Non-Fungsional adalah menguji kerja sistem yang memeriksa segala aspek yang diuat seperti (performa sistem,
+manajemen memori)
+
+*PERTANYAAN*
+-> a. Zalna Rahma :
+Apa persamaan pengujian fungsional dan non fungsional ?
+*Jawaban* : Sama sama diuji dan pengujian dapat menggunakan Manual Testing dan Automated Testing
+
+-> b. Devi :
+Apa kekurangan dari pengujian fungsional dan non fungsional ?
+*Jawaban* : Mahal dibiaya pengujian. harus membayar engineer dalam melakukan pengujian perangkat lunak tsb.
+
+	KELOMPOK BAB 4 (Yudha, Adi dan Firman)
+Melakukan pengecekan dan installasi NodeJS dengan VSCode, melakukan pengecekan versi node dan npm, membuat unit project sederhana menggunakan nodeJS dan unit testing 
+sederhana dengan menggunakan Jest, membuka cmd pada folder project dan mengetikan npm install --save-dev jest dan menunggu hingga selesai 
+
+*PERTANYAAN*
+-> a. Fansiska :
+Pada penamaan file tambah.test.js apakah default nama test atau bisa ditentukan dan juga apa nama function dapat diubah?
+*jawaban* : untuk penamaan file tambah.test.js dapat diubah akan tetapi pada .test harus mengacu pada file package.json yang dimana disana ada sintak test
+dan kemudian pada penamaan code function dapat diubah asalkan pada kode berkutnya harus mengikuti nama function nya.
